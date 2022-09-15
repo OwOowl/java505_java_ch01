@@ -1,0 +1,5 @@
+.settings/
+.classpath
+.project
+bin/java_test/Hello.class
+bin/java_test/java_chapter2.class
